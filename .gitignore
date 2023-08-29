@@ -51,5 +51,14 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Editor stuffs
+.vscode/
+
 # macOS
 .DS_Store
+
+# Temporary files
+temp/
+
+# Release
+release/
