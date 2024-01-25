@@ -8,4 +8,4 @@ NGINX Load Balancer is available under the [BSD-2-Clause license](https://github
 
 ---
 
-© 2023 Yichao 'Peak' Ji
+© 2023-2024 Yichao 'Peak' Ji
