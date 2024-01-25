@@ -1,5 +1,5 @@
 NAME := nginx-load-balancer
-VERSION := 0.1.0
+VERSION := 1.0.0
 
 DOCKER_HUB_OWNER ?= peakji92
 DOCKER_HUB_IMAGE := $(DOCKER_HUB_OWNER)/$(NAME):$(VERSION)
